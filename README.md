@@ -17,7 +17,7 @@ You are given an m x n integer matrix matrix with the following two properties:<
 Given an integer target, return true *if* target *is in* matrix *or* false *otherwise*.<br>
 You must write a solution in O(log(m * n)) time complexity.<br>
 **Example 1:**<br>
-![example1]()<br>
+![example1](https://github.com/Srijana1425/2D_Array_Assignment6/blob/main/img/example%202.png)<br>
 **Input:** matrix = [[1,3,5,7],[10,11,16,20],[23,30,34,60]], target = 3<br>
 **Output:** true<br><br>
 *Answer*<br>
@@ -30,7 +30,7 @@ Recall that arr is a mountain array if and only if:<br>
 - There exists some i with 0 < i < arr.length - 1 such that:<br>
     - arr[0] < arr[1] < ... < arr[i - 1] < arr[i]<br>
     - arr[i] > arr[i + 1] > ... > arr[arr.length - 1]<br>
- ![example2]()<br>
+ ![example2](https://github.com/Srijana1425/2D_Array_Assignment6/blob/main/img/example%203.png)<br>
  **Example 1:**<br>
 **Input:** arr = [2,1]<br>
 **Output:** false<br><br>
@@ -74,7 +74,7 @@ Other original arrays could be [4,3,1] or [3,1,4].<br><br>
 **Question 7**<br>
 Given a positive integer n, generate an n x n matrix filled with elements from 1 to n2 in spiral order.<br>
 **Example 1:**<br>
-![example3]()<br>
+![example3](https://github.com/Srijana1425/2D_Array_Assignment6/blob/main/img/example%207.png)<br>
 **Input:** n = 3<br>
 **Output:** [[1,2,3],[8,9,4],[7,6,5]]<br><br>
 *Answer*<br>
@@ -83,7 +83,7 @@ Given a positive integer n, generate an n x n matrix filled with elements from 1
 **Question 8**<br>
 Given two [sparse matrices](https://en.wikipedia.org/wiki/Sparse_matrix) mat1 of size m x k and mat2 of size k x n, return the result of mat1 x mat2. You may assume that multiplication is always possible.<br>
 **Example 1:**<br>
-![example4]()<br>
+![example4](https://github.com/Srijana1425/2D_Array_Assignment6/blob/main/img/example%208.png)<br>
 **Input:** mat1 = [[1,0,0],[-1,0,3]], mat2 = [[7,0,0],[0,0,0],[0,0,1]]<br>
 **Output:**[[7,0,0],[-7,0,3]]<br><br>
 *Answer*<br>
