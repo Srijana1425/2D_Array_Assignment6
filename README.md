@@ -8,7 +8,7 @@ Given a string s, reconstruct the permutation perm and return it. If there are m
 **Input:** s = "IDID"<br>
 **Output:**[0,4,1,3,2]<br><br>
 *Answer*<br>
-**code** [Link]()<br>
+**code** [Link](https://github.com/Srijana1425/2D_Array_Assignment6/blob/main/ans1.js)<br>
 *********************************************************************************************************************************
 **Question 2**<br>
 You are given an m x n integer matrix matrix with the following two properties:<br>
@@ -21,7 +21,7 @@ You must write a solution in O(log(m * n)) time complexity.<br>
 **Input:** matrix = [[1,3,5,7],[10,11,16,20],[23,30,34,60]], target = 3<br>
 **Output:** true<br><br>
 *Answer*<br>
-**code** [Link]()<br>
+**code** [Link](https://github.com/Srijana1425/2D_Array_Assignment6/blob/main/ans2.js)<br>
 *********************************************************************************************************************************
 **Question 3**<br>
 Given an array of integers arr, return *true if and only if it is a valid mountain array*.
@@ -35,7 +35,7 @@ Recall that arr is a mountain array if and only if:<br>
 **Input:** arr = [2,1]<br>
 **Output:** false<br><br>
 *Answer*<br>
-**code** [Link]()<br>
+**code** [Link](https://github.com/Srijana1425/2D_Array_Assignment6/blob/main/ans3.js)<br>
 *********************************************************************************************************************************
 **Question 4**<br>
 Given a binary array nums, return *the maximum length of a contiguous subarray with an equal number of* 0 *and* 1.<br>
@@ -44,7 +44,7 @@ Given a binary array nums, return *the maximum length of a contiguous subarray w
 **Output:** 2<br>
 **Explanation:**[0, 1] is the longest contiguous subarray with an equal number of 0 and 1.<br><br>
 *Answer*<br>
-**code** [Link]()<br>
+**code** [Link](https://github.com/Srijana1425/2D_Array_Assignment6/blob/main/ans4.js)<br>
 *********************************************************************************************************************************
 **Question 5**<br>
 The **product sum** of two equal-length arrays a and b is equal to the sum of a[i] * b[i] for all 0 <= i < a.length (**0-indexed**).
@@ -55,7 +55,7 @@ Given two arrays nums1 and nums2 of length n, return *the **minimum product sum*
 **Output:** 40<br>
 **Explanation:** We can rearrange nums1 to become [3,5,4,2]. The product sum of [3,5,4,2] and [4,2,2,5] is 3*4 + 5*2 + 4*2 + 2*5 = 40<br><br>
 *Answer*<br>
-**code** [Link]()<br>
+**code** [Link](https://github.com/Srijana1425/2D_Array_Assignment6/blob/main/ans5.js)<br>
 *********************************************************************************************************************************
 **Question 6**<br>
 An integer array original is transformed into a **doubled** array changed by appending **twice the value** of every element in original, and then randomly **shuffling** the resulting array.
@@ -69,7 +69,7 @@ Given an array changed, return original *if* changed *is a **doubled** array. If
 - Twice the value of 4 is 4 * 2 = 8.<br>
 Other original arrays could be [4,3,1] or [3,1,4].<br><br>
 *Answer*<br>
-**code** [Link]()<br>
+**code** [Link](https://github.com/Srijana1425/2D_Array_Assignment6/blob/main/ans6.js)<br>
 *********************************************************************************************************************************
 **Question 7**<br>
 Given a positive integer n, generate an n x n matrix filled with elements from 1 to n2 in spiral order.<br>
@@ -78,7 +78,7 @@ Given a positive integer n, generate an n x n matrix filled with elements from 1
 **Input:** n = 3<br>
 **Output:** [[1,2,3],[8,9,4],[7,6,5]]<br><br>
 *Answer*<br>
-**code** [Link]()<br>
+**code** [Link](https://github.com/Srijana1425/2D_Array_Assignment6/blob/main/ans7.js)<br>
 *********************************************************************************************************************************
 **Question 8**<br>
 Given two [sparse matrices](https://en.wikipedia.org/wiki/Sparse_matrix) mat1 of size m x k and mat2 of size k x n, return the result of mat1 x mat2. You may assume that multiplication is always possible.<br>
@@ -87,4 +87,4 @@ Given two [sparse matrices](https://en.wikipedia.org/wiki/Sparse_matrix) mat1 of
 **Input:** mat1 = [[1,0,0],[-1,0,3]], mat2 = [[7,0,0],[0,0,0],[0,0,1]]<br>
 **Output:**[[7,0,0],[-7,0,3]]<br><br>
 *Answer*<br>
-**code** [Link]()<br>
+**code** [Link](https://github.com/Srijana1425/2D_Array_Assignment6/blob/main/ans8.js)<br>
